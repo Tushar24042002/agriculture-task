@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 To install the project dependencies, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/my-react-project.git
+   git clone https://github.com/Tushar24042002/agriculture-task.git
 
 2. Install dependencies using Yarn:
    yarn install
@@ -54,7 +54,7 @@ my-agriculture-project ( Task)/
 # Screenshots
 
 Figure 1: Overview of the Agriculture Analytics -Yearly Wise 
-[![Analytics 1 ](public/screenshot/screenshot1.png)](https://665006657b461fd02d395673--candid-sunburst-a8ea12.netlify.app/screenshot1.png)
+(https://665006657b461fd02d395673--candid-sunburst-a8ea12.netlify.app/screenshot1.png)
 
 Figure 1: Overview of the Agriculture Analytics  - Average
-[![Analytics 2 ](public/screenshot/screenshot2.png)](https://665006657b461fd02d395673--candid-sunburst-a8ea12.netlify.app/screenshot2.png)
+(https://665006657b461fd02d395673--candid-sunburst-a8ea12.netlify.app/screenshot2.png)
